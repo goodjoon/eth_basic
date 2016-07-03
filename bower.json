@@ -1,0 +1,28 @@
+{
+  "name": "eth_basic",
+  "homepage": "goodjoon.tistory.com",
+  "authors": [
+    "goodjoon <goodjoon@gmail.com>"
+  ],
+  "description": "ethereum basic application",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "ethereum"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "web3": "^0.16.0",
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.0.0"
+  }
+}
